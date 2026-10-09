@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "godrolls@curtis": {
+      "updates": [
+        {
+          "version": "1.0.0",
+          "update_link": "https://github.com/CJScully/DIM-God-Roll-Colours-Releases/releases/download/v1.0.0/dim-god-roll-colours-1.0.0.xpi"
+        }
+      ]
+    }
+  }
+}
